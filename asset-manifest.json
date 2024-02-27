@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portafoliowebalfa/static/css/main.fc39c7c5.css",
+    "main.js": "/portafoliowebalfa/static/js/main.3d70f38a.js",
+    "static/media/cv.pdf": "/portafoliowebalfa/static/media/cv.22e7d7b5810a56692b2f.pdf",
+    "static/media/yo2.png": "/portafoliowebalfa/static/media/yo2.1538f0a4000283d2738d.png",
+    "static/media/assetsWb-8.jpg": "/portafoliowebalfa/static/media/assetsWb-8.5e70d33da5e3118324c6.jpg",
+    "static/media/assetsivb-4.jpg": "/portafoliowebalfa/static/media/assetsivb-4.d5c56b2846b13e3159f4.jpg",
+    "static/media/islamica.png": "/portafoliowebalfa/static/media/islamica.95a95fff2027f7c0a7ac.png",
+    "static/media/assetsL-13.jpg": "/portafoliowebalfa/static/media/assetsL-13.898fb3d97076c549ebd3.jpg",
+    "static/media/assetsY-6.jpg": "/portafoliowebalfa/static/media/assetsY-6.0d1ed35543e551e144fc.jpg",
+    "static/media/assetsC-5.jpg": "/portafoliowebalfa/static/media/assetsC-5.41fdf74753330381b245.jpg",
+    "index.html": "/portafoliowebalfa/index.html",
+    "main.fc39c7c5.css.map": "/portafoliowebalfa/static/css/main.fc39c7c5.css.map",
+    "main.3d70f38a.js.map": "/portafoliowebalfa/static/js/main.3d70f38a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc39c7c5.css",
+    "static/js/main.3d70f38a.js"
+  ]
+}
